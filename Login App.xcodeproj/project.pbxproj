@@ -16,6 +16,8 @@
 		B5ADA80D29898344002E53C2 /* Login_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5ADA80C29898344002E53C2 /* Login_AppTests.swift */; };
 		B5ADA81729898344002E53C2 /* Login_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5ADA81629898344002E53C2 /* Login_AppUITests.swift */; };
 		B5ADA81929898344002E53C2 /* Login_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5ADA81829898344002E53C2 /* Login_AppUITestsLaunchTests.swift */; };
+		B5ADA8262989836A002E53C2 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5ADA8252989836A002E53C2 /* LoginViewController.swift */; };
+		B5ADA82829898693002E53C2 /* WelcomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5ADA82729898693002E53C2 /* WelcomeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		B5ADA81229898344002E53C2 /* Login AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Login AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5ADA81629898344002E53C2 /* Login_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login_AppUITests.swift; sourceTree = "<group>"; };
 		B5ADA81829898344002E53C2 /* Login_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		B5ADA8252989836A002E53C2 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		B5ADA82729898693002E53C2 /* WelcomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +107,8 @@
 				B5ADA7F729898343002E53C2 /* SceneDelegate.swift */,
 				B5ADA7F929898343002E53C2 /* ViewController.swift */,
 				B5ADA7FB29898343002E53C2 /* Main.storyboard */,
+				B5ADA8252989836A002E53C2 /* LoginViewController.swift */,
+				B5ADA82729898693002E53C2 /* WelcomeViewController.swift */,
 				B5ADA7FE29898344002E53C2 /* Assets.xcassets */,
 				B5ADA80029898344002E53C2 /* LaunchScreen.storyboard */,
 				B5ADA80329898344002E53C2 /* Info.plist */,
@@ -258,6 +264,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5ADA8262989836A002E53C2 /* LoginViewController.swift in Sources */,
+				B5ADA82829898693002E53C2 /* WelcomeViewController.swift in Sources */,
 				B5ADA7FA29898343002E53C2 /* ViewController.swift in Sources */,
 				B5ADA7F629898343002E53C2 /* AppDelegate.swift in Sources */,
 				B5ADA7F829898343002E53C2 /* SceneDelegate.swift in Sources */,
